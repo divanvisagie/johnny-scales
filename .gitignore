@@ -1,0 +1,6 @@
+target
+.sbtserver
+*/.sbtserver
+node_modules
+.ensime_cache
+.ensime
